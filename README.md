@@ -13,3 +13,7 @@ Research on customer attrition data modeling may provide businesses with several
 Even though the behaviour of customers differ between industries, the underlying pattern remains same. So, the knowledge gained from analysis of churned customers of one sector can be applied on other industries, at least to get started. In today's highly competitive business landscape, the ability to correctly predict which customer is going to churn will give a huge of over competitors.
 
 In this repository, I have made an attempt to analyze customer churns across multiple industries, and build mining models to not only predict the next possible churns, but derive insights into which factors are playing a major role in this.
+
+Index:
+
+* [Analysis of customer churn in the telco industry](https://github.com/SupratimH/customer-churn-analysis-and-prediction/tree/master/telco-ibm-data)
